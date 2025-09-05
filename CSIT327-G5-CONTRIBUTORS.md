@@ -1,4 +1,4 @@
 ## Contributors
 
-- _Add your name here in Task C_
+- Artazo, Airon Kit (**@talkingidiot**)
 - Revilleza, Frederick (**@juantojuan**)
